@@ -15,8 +15,8 @@
 `![](http://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png)` 
 ![](http://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png)
 
-使用HTML更改后为：
-`<img src="http://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png" width="200" height="300" align="middle" />`
+使用HTML更改后为：     
+`<img src="http://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png" width="200" height="300" align="middle" />`     
 <img src="http://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png" width="200" height="300" align="middle" />
 
  
